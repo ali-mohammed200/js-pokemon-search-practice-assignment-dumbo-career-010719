@@ -46,7 +46,9 @@ input:focus {
 
 .pokemon-image {
   width: 96px;
-  margin: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .center-text {
